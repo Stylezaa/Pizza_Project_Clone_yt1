@@ -2,7 +2,7 @@
 
 This project was clone from Youtube 01
 
-Demo: https://devs-clone-yt01.netlify.app/
+<a href="https://devs-clone-yt01.netlify.app/" target="_blank">Demo Pizza</a>
 
 ## Available Scripts
 
