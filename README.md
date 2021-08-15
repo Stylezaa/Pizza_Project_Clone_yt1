@@ -4,8 +4,6 @@ This project was clone from Youtube 01
 
 <a href="https://devs-clone-yt01.netlify.app/" target="_blank">Demo Pizza</a>
 
-[link](https://devs-clone-yt01.netlify.app/){:target="_blank"}
-
 ## Available Scripts
 
 In the project directory, you can run:
