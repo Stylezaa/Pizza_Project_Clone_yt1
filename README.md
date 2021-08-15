@@ -1,4 +1,4 @@
-# Project Pizza Clone YT-01
+# Pizza Project Clone YT-01
 
 This project was clone from Youtube 01
 
